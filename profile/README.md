@@ -17,7 +17,7 @@ We are on the journey to build a 100% decentralized and democratic app, governed
 Here is our current stack. 
 
 | Web3        | Backend           | Frontend  |  IT  |
-| ------------- |:-------------:| -----:|  -----:|
+| ------------- |-------------| -----|  -----|
 |  Mobile Wallet Adapter  | Nest | React | Heroku |
 | Metaplex      | GraphQL      |   Next | Git |
 | ThirdWeb | TypeORM     |    Material UI | AWS |
