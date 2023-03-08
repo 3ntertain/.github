@@ -18,6 +18,7 @@ Here is our current stack.
 - Solana Mobile Wallet Adapter
 - Metaplex
 - ThirdWeb
+- Quicknode
 
 ### Backend
 - Nest
