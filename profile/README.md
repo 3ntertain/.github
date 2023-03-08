@@ -1,8 +1,6 @@
 # 3ntertain
-WE PROVIDE A TURN-KEY,
-END-TO-END AND EVENT-ORIENTED SOLUTION,
-DEDICATED TO 3NTERTAIN AND MONETIZE COMMUNITIES,
-WHILE FAIRLY REWARDING GAME CREATORS.
+We provide a turn-key, end-to-end and event-oriented solution, dedicated to entertain and monetize communities while fairly reward game creators.
+----
 
 Built on Solana during the [GrizzlyThon 2023](https://solana.com/grizzlython).
 
