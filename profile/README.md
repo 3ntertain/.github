@@ -16,12 +16,12 @@ We are on the journey to build a 100% decentralized and democratic app, governed
 
 Here is our current stack. 
 
-| Web3        | Backend           | Cool  |
-| ------------- |:-------------:| -----:|
-|  Mobile Wallet Adapter       | right-aligned | $1600 |
-| Metaplex      | centered      |   $12 |
-| ThirdWeb | are neat      |    $1 |
-| Quicknode | are neat      |    $1 |
+| Web3        | Backend           | Frontend  |  | IT  |
+| ------------- |:-------------:| -----:|  -----:|
+|  Mobile Wallet Adapter  | Nest | React | Heroku |
+| Metaplex      | GraphQL      |   Next | Git |
+| ThirdWeb | TypeORM     |    Material UI | AWS |
+| Quicknode | MySQL     |    Apollo | S3 |
 
 ### Web3
 - Solana Mobile Wallet Adapter
