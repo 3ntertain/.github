@@ -16,12 +16,12 @@ We are on the journey to build a 100% decentralized and democratic app, governed
 
 Here is our current stack. 
 
-| Web3        | Are           | Cool  |
+| Web3        | Backend           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is       | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+|  Mobile Wallet Adapter       | right-aligned | $1600 |
+| Metaplex      | centered      |   $12 |
+| ThirdWeb | are neat      |    $1 |
+| Quicknode | are neat      |    $1 |
 
 ### Web3
 - Solana Mobile Wallet Adapter
