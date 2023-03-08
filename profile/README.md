@@ -10,7 +10,9 @@ Built on Solana during the [GrizzlyThon 2023](https://solana.com/grizzlython).
 - [Pitchdeck](https://3ntertain.io/pitchdeck.pdf)
 
 ## Tech stack
-We are on the journey to build a 100% decentralized and democratic app, governed by a protocol and it's users. We travel one step at a timen focusing on user experience and reducing the time to market. In it's current state, 3ntertain is a 2.5 app, combining the power of the Solana blockchain with the ease and speed of use of the best web2 technologies. Here is our current stack. 
+We are on the journey to build a 100% decentralized and democratic app, governed by a protocol and it's users. We travel one step at a timen focusing on user experience and reducing the time to market. In it's current state, 3ntertain is a 2.5 app, combining the power of the Solana blockchain with the ease and speed of the best web2 technologies.
+
+Here is our current stack. 
 
 ### Web3
 - Solana Mobile Wallet Adapter
@@ -18,13 +20,19 @@ We are on the journey to build a 100% decentralized and democratic app, governed
 - ThirdWeb
 
 ### Backend
-- Nestjs
+- Nest
 - GraphQL
 - TypeORM
 
 ### Frontend
 - React
-- NextJ
+- Next
 - Material UI
 - Apollo
+
+### IT
+- Heroku
+- Git
+- AWS
+- S3
 
