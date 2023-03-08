@@ -36,7 +36,9 @@ We are bullish on [Raindrops](https://docs.raindrops.xyz/), it will help us to i
 xNFTs x 3ntertain is a match made in heaven. 3ntertain is the perfect use case for programmable NFTs.
 
 
-
+## Contribute
+We have decided to open source all our back-end solution. 
+You will find our ThirdWeb integration.
 
 
 
