@@ -1,5 +1,8 @@
 # 3ntertain
-The first end-to-end community event maker.
+WE PROVIDE A TURN-KEY, END-TO-END AND EVENT-ORIENTED SOLUTION, DEDICATED
+TO 3NTERTAIN AND MONETIZE COMMUNITIES,
+WHILE FAIRLY REWARDING GAME CREATORS.
+
 Built on Solana during the [GrizzlyThon 2023](https://solana.com/grizzlython).
 
 🏁 Live demo here: http://3ntertain.io/
